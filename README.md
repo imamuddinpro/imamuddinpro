@@ -34,6 +34,7 @@
   <a href="https://github.com/imamuddinpro/" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinpro?label=Github&style=flat">
   </a>
+  <hr><hr>
   <a href="https://github.com/imamuddinpro" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=imamuddinpro&label=Views&color=brightgreen&style=flat" alt="imamuddinpro" />
   </a>
