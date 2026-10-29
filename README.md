@@ -1,4 +1,4 @@
-<h1><a href="https://imamuddinwp.com" target="_blank">Imam Uddin | imamuddinwp</a></h1>
+<h1><a href="https://imamuddinpro.blogspot.com" target="_blank">Imam Uddin | imamuddinpro</a></h1>
 <h2>SEO Expert | Web Designer | Freelance Digital Marketing</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
@@ -9,10 +9,10 @@
   <a href="https://www.blogger.com/profile/04699450517091153429" target="_blank">
     <img src="https://img.shields.io/badge/-Blogger-1877F2?style=flat&labelColor=1877F2&logo=blogger&logoColor=white&link=https://www.blogger.com/profile/04699450517091153429">
   </a>
-  <a href="https://behance.net/imamuddinwp" target="_blank">
+  <a href="https://behance.net/imamuddinpro" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinwp">
   </a>
-     <a href="https://medium.com/@imamuddinwp" target="_blank">
+     <a href="https://imamuddinpro.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-1ca0f1?style=flat&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://medium.com/@imamuddinwp">
   </a> 
    <a href="https://www.instagram.com/imamuddinwp" target="_blank">
@@ -31,7 +31,7 @@
   <a href="https://bn.quora.com/profile/Imam-Uddin-Wp" target="_blank">
     <img src="https://img.shields.io/badge/-Quora-1ca0f1?style=flat&labelColor=1ca0f1&logo=quora&logoColor=white&link=https://bn.quora.com/profile/Imam-Uddin-Wp">
   </a>
-  <a href="https://github.com/imamuddinwp" target="_blank">
+  <a href="https://github.com/imamuddinpro" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/imamuddinwp?label=Github&style=flat">
   </a>
   <a href="https://github.com/imamuddinwp" target="_blank">
