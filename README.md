@@ -1,5 +1,5 @@
 <h1><a href="https://imamuddinpro.blogspot.com" target="_blank">Imam Uddin | imamuddinpro</a></h1>
-<h2>SEO Expert | Web Designer | Freelance Digital Marketing</h2>
+<h2>Prompt Engineer | AI Automation Expert</h2>
 <h3>Be Social With Me!!! 😍</h3>
 <p align="center">  
   
