@@ -1,8 +1,7 @@
 <h1><a href="https://imamuddinpro.blogspot.com" target="_blank">Imam Uddin | imamuddinpro</a></h1>
 <h2>Prompt Engineer | AI Automation Expert</h2>
 <h3>Be Social With Me!!! 😍</h3>
-<p align="center">  
-  
+<p align="center">    
   <a href="https://www.linkedin.com/in/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/imamuddinwp">
   </a> 
@@ -12,18 +11,15 @@
   <a href="https://behance.net/imamuddinpro" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/imamuddinpro">
   </a>
-
    <a href="https://stackoverflow.com/users/4794817/imamuddinpro" target="_blank">
     <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/4794817/imamuddinpro">
-  </a>
-  
+  </a>  
      <a href="https://imamuddinpro.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-1ca0f1?style=flat&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://medium.com/@imamuddinwp">
   </a> 
    <a href="https://www.instagram.com/imamuddinwp" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/imamuddinwp">
   </a> 
-
    <a href="https://facebook.com/imamuddinwpbd" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/imamuddinwp">
   </a>
